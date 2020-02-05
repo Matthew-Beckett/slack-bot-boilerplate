@@ -1,0 +1,22 @@
+[
+    {
+        "fallback": "Upgrade your Slack client to use messages like these.",
+        "color": "#3AA3E3",
+        "attachment_type": "default",
+        "callback_id": "menu_options_2319",
+        "actions": [
+            {
+                "name": "list",
+                "text": "List",
+                "type": "button",
+                "value": "list"
+            },
+            {
+                "name": "move",
+                "text": "Move",
+                "type": "button",
+                "value": "move"
+            }
+        ]
+    }
+]
